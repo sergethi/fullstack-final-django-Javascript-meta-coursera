@@ -1,4 +1,4 @@
-Restaurant table booking system with Django, javascript and MySQL
+# Restaurant table booking system with Django, javascript and MySQL
 
   Connect the Little Lemon restaurant back-end to MySQL
   
